@@ -1,4 +1,4 @@
-# 🌆 Sustainable Smart City Assistant Using IBM Granite LLM
+# 🌆 Sustainable Smart City Assistant Using IBM Granite LLM🤖
 
 
 An AI-powered platform built with Streamlit and IBM Watsonx Granite LLM to promote urban sustainability, governance, and citizen engagement. This app integrates multiple smart city modules — from policy summarization to anomaly detection — providing actionable insights for municipal planners and citizens alike.
@@ -30,7 +30,7 @@ An interactive AI chat module powered by IBM Granite LLM, answering citizen quer
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 - **Frontend:** Streamlit for building an interactive and user-friendly UI  
 - **Backend AI:** IBM Watsonx Granite LLM for natural language processing and generation  
@@ -41,7 +41,7 @@ An interactive AI chat module powered by IBM Granite LLM, answering citizen quer
 
 ---
 
-## Getting Started
+## ⚙️Getting Started
 
 ### Prerequisites
 
