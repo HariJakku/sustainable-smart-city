@@ -56,7 +56,7 @@ An interactive AI chat module powered by IBM Granite LLM, answering citizen quer
 1. Clone the repo:
    ```bash
    git clone https://github.com/HariJakku/sustainable-smart-city.git
-   cd sustainable-smart-city-assistant
+   cd sustainable-smart-city
    ```
 2. Update the IBM Watsonx credentials in app.py:
    ```bash
@@ -66,7 +66,7 @@ An interactive AI chat module powered by IBM Granite LLM, answering citizen quer
    ```
 3. Install dependencies:
    ```bash
-     pip inttall -r requirements.txt
+     pip install -r requirements.txt
    ```
 4. Run the App Locally
    ```bash
