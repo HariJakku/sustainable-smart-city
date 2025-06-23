@@ -85,7 +85,7 @@ An interactive AI chat module powered by IBM Granite LLM, answering citizen quer
 ---
 ## Project Overview: 
 
-![DashBoard](img.png)
+![DashBoard](img.PNG)
 
 ---
 
